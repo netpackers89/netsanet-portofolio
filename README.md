@@ -1,0 +1,2 @@
+# netsanet-portofolio
+MAKE OUR SELF MAKE READY FOR WHAT IS COMING   GOOD LUCK !!!
