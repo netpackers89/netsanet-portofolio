@@ -264,5 +264,29 @@ label {text-align: center;}
            
         
         }
+@media (max-width: 600px) {
+    .nav {
+        margin-top: 20px;
+    }
+    
+    .nav-link {
+        font-size: 0.55rem;
+        padding: 5px 10px;
+    }
+
+    h1 { font-size: 2rem; }
+
+    .hero-img {
+        width: 180px;
+        height: 180px;
+    }
+
+    h2 { margin-left: 0; }
+    
+    table, th, td {
+        font-size: 0.8rem;
+        padding: 8px;
+    }
+}    
 
        
